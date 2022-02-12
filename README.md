@@ -1,4 +1,4 @@
-
+bash
 We saw in the previous challenge how to plug a website to our **Prediction API** in order to allow regular users to make prediction.
 
 Now let's create our own website ! 🔥
